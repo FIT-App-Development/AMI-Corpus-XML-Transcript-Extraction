@@ -1,0 +1,988 @@
+speaker,text,onset_time,offset_time
+D,Funky sh stuff like that,0.37,1.55
+A,Wonder how much of meetings is talking about the stuff at the meetings,0.96,3.16
+C,Yeah exactly yeah yeah yeah,3.58,4.78
+D,Yeah Yeah Look at all this stuff man,3.75,6.34
+A,Yeah,6.65,6.65
+B,Okay,8.60,8.60
+D,Okay Right,8.72,11.83
+B,So what do we need to talk about,12.32,14.31
+C,Should we,13.20,13.59
+D,Has anybody,14.98,15.11
+C,Well should we just go around and everyone says what they d what they've been doing how far they've got,15.21,19.68
+D,Has anybody done anything,19.08,19.62
+A,Not a lot No,21.47,23.11
+C,Well I hope so,24.17,24.67
+A,Hmm Okay Sounds like you've done some stuff So,25.50,28.20
+B,Yeah,25.76,25.76
+D,You better start,28.43,28.83
+C,Okay Well I've got a browser now which Whoops Already gone,29.84,34.27
+B,Uh Yeah,30.51,32.53
+A,'Kay,32.58,32.58
+B,Good start,35.49,35.68
+C,Mm-hmm,36.34,36.34
+B,Oh I don't mind as well,38.05,38.89
+D,Good at this,41.78,42.98
+B,This wasn't a good start,43.72,44.67
+C,Yeah,43.96,43.96
+B,Okay,48.29,48.29
+C,Okay,48.72,48.72
+B,Sorry Yeah,49.32,49.78
+C,So yeah We've go a browser we've um,50.38,53.19
+C,which comes up automatically with a transcription box and the topics,54.36,58.15
+C,And then when you go on the menu you can select a summarisation box which pops up and an audio player,59.35,66.31
+D,Right,68.23,68.23
+C,Um and a s I think the search works as well so you could pop up a search And it loads up um just the background window is empty and um so,68.79,78.08
+C,when you start you have to either open open,79.09,80.51
+C,a particular observation or do a search and open it through that,81.60,84.56
+C,Does that make sense Um,86.48,88.61
+C,the transcription box has got a summarise but button which doesn't do anything yet,90.10,94.97
+C,Um now,96.03,97.25
+C,I wonder wh how we wanna do you know we want a pop-up window with the speaker characterisation,98.55,103.01
+C,Um either we could do that you know when does the pop-up come Either we can when you click on the the I_D_ any sort of I_D_ in the transcription box,106.20,114.56
+D,D yeah,106.38,106.41
+A,Hmm,106.69,106.69
+C,or we can put an extra button extra few buttons next to the summarise button so that you actually in the transcription box but so like you click on a button and then that opens whatever that speaker characterisation is,115.82,127.12
+C,The problem is the r the left-click is already used because it highlights that um,128.38,134.32
+C,that part of speech or whatever that what he's been saying you know the,136.62,139.48
+D,The l the left-click or the right-click,138.78,140.20
+C,the left-click highlights it So that you can,140.62,143.41
+B,Yeah,140.88,140.88
+D,Right,142.17,142.17
+B,Can you double-click or,142.58,143.77
+C,I don't know what happens when you double-click actually but that'd be a bit annoying if you have left-click for one thing and double-click for something else,145.13,151.43
+B,Yeah I don't know,152.40,152.66
+C,Um,152.91,152.91
+C,I think so yeah when you left-click it you can for example set set the marker there so that the mm the audio goes from there I think,153.99,160.39
+C,Um so we can't put it on left-click We could put it on a right-click,162.68,165.26
+C,We could for example have a little menu that pops up,166.38,168.50
+D,Yeah it might be quite good I suppose Yeah,169.45,170.81
+C,So right-click on at menu you know and you can,170.64,172.97
+C,click on speaker characterisation up pops the window,174.06,176.26
+D,What else could we have in the,176.92,177.76
+D,menu,179.41,179.41
+C,That's a good point I don't know,180.37,181.94
+D,Okay So otherwise you just have a right-click or do you have have,182.43,185.39
+C,Nothing else,182.96,183.21
+A,Hmm Everything,183.16,183.72
+C,Yeah yeah but um I don't know about you but uh usually in Windows right-click,185.12,189.04
+A,Yeah Hmm,185.17,185.90
+B,Yeah,186.03,186.03
+D,a,186.77,186.77
+C,doesn't do anything does it It opens a menu Yeah so,190.05,193.22
+D,Is a window,190.08,190.28
+D,A menu yeah yeah Yeah it's why And so it might be a bit weird the fir to just start bringing up stuff and then it,192.31,197.81
+B,And then,192.99,193.13
+C,yeah So but that'd be yeah you,194.25,196.99
+A,Yeah Yeah,194.85,196.63
+A,Yeah To just have the sort of main same sort of idiom throughout kinda So,198.00,202.42
+C,Yeah,202.12,202.12
+D,Yeah,203.25,203.25
+A,Hmm,203.92,203.92
+C,Um or just you know or just the button,204.64,206.07
+A,Yeah,207.60,207.60
+B,I guess a button button makes a bit more sense 'cause otherwise you don't really know that oh,207.74,214.53
+B,what if I right-click now what happens then It's like more if visual Yeah,215.55,220.21
+C,Well no no you still have the menu the menu pop up that,218.28,221.32
+A,Hmm,218.41,218.41
+D,Yeah Yeah It's more,218.99,220.96
+C,Well oh yeah It's more obvious isn't w what you can do Yeah Yeah that's right That's true yeah it's more intuitive really isn't it,223.03,230.98
+B,Do you see my,224.94,225.22
+D,It's more idiot proof isn't it It's got a button,225.08,226.85
+B,Yeah,228.18,228.18
+A,Yeah,228.66,228.66
+A,Yeah But then it's as extensible Like if we wanna add more things in the future then we have to well new buttons I don't know Whereas a menu type thing is more flexible that way But We're probably not gonna be adding too many things,229.80,240.04
+B,But well we we can have both but whatever,231.19,232.83
+D,Add more buttons,234.62,234.97
+C,Maybe maybe,235.54,236.37
+D,Yeah Well in uh I guess in in In meeting browser one point one you can have a menu instead of a button,238.90,244.62
+A,Okay exactly know I know True true,243.02,245.56
+D,but this why I don't think it Yeah,247.31,250.32
+A,Yes,247.46,247.46
+C,In the beta version Um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the,248.74,256.95
+C,all the meetings that that user has been in,258.22,259.86
+A,Hmm,261.15,261.15
+C,Like a search for that user,261.35,262.77
+D,Yep,263.41,263.41
+C,Is that gonna be useful or too much Or,264.38,266.35
+D,I guess so So what did you part of the m the menu that comes down it says give me all your meetings or something,267.62,272.57
+C,Yeah so y when you right-click on it one one option will be give me all your meetings characterise the speaker,272.71,278.66
+D,Yep,280.12,280.12
+C,Or is that too much I mean,284.08,284.99
+B,Yeah um I don't,285.11,285.82
+D,I guess so It's an idea Get to use my pen,286.06,288.46
+B,I mean it w it's more like part of the,286.84,289.96
+B,browsing sort of thingy More than the speaker,291.76,294.61
+B,characterisation as m Steve mentioned Um I don't really know how to involve the speaker characterisation into the,295.77,301.80
+C,Yeah Yeah that's true yeah Yeah,296.86,299.09
+A,Hmm Yeah,298.67,299.48
+C,Yeah that's true It'd nice to have it inconnec interconnected like,301.01,303.52
+A,Actually,301.45,301.45
+A,Yeah but maybe tie that in with dialogue acts or something as well I mean speaker characterisation tied into I don't know Di Just some way to sort of leverage that information Like we have it we're doing it but what how does it help the browsing Or what can it give us in the browsing,303.36,316.71
+C,Or you mean the the speaker characterisation Oh well yeah I mean,316.61,319.49
+A,Yeah Yeah,317.89,319.23
+C,I don't know about that I mean it's the speaker characterisation is a bit like you said I mean it's like a nice thing We don't we're not actually sure what the user wants with it but it's interesting so why not give it to him,321.38,331.95
+A,Hmm,325.97,325.97
+D,Yeah yeah,332.74,332.99
+A,Right,333.30,333.30
+B,Yeah well,333.87,333.96
+C,I I think we should do it I mean,334.08,335.20
+B,Yeah,335.38,335.38
+B,I mean I guess maybe we could have that as another thing of like well if you get the speaker characterisation that someone s talks a lot in uh a certain topic and then if you I don't know click on that topic you get,336.48,350.91
+B,everything that's in that topic or whatever And in that way but I don't know,352.11,356.18
+C,Yeah I mean that's that's still another level further I mean we're not even there yet You know it doesn't even doesn't even pop up the speaker characterisation yet Y we have to first define what what happens when you click on a user,354.75,363.85
+B,no no Yeah,358.95,359.50
+D,Oh yeah,359.54,359.58
+D,We have to have a speaker characterisation first before we cross any of the other bridges So yeah there you,364.43,368.66
+C,Yeah,366.96,366.96
+A,Yeah,367.39,367.39
+C,Yes,367.98,367.98
+A,True yeah,368.44,368.95
+C,So should we try try to do a right-click when you then,369.33,371.68
+D,go Yeah Alright Why not,369.90,376.14
+B,Yeah,376.27,376.27
+A,Is that just from the main,376.29,376.89
+A,main window Is that from any particular window like if we wanna sorta get like if we were on the users versus like topic or something have a right-click from for these various things to yeah,377.91,387.72
+C,Sorry,377.93,377.93
+D,Even if only one thing comes up,378.12,379.22
+C,Yeah,385.70,385.70
+C,Yes Wait Yeah there's a second thing about the topics the topic window We wanna somehow,386.86,391.89
+C,click be able to click on a topic and it pops up with all the meetings that contain that,392.98,397.42
+A,Right yeah Yep,397.67,399.03
+B,Yeah,398.18,398.18
+C,Yeah So we could do that in a similar way do it right-click as well And to have a different menu for our,398.59,404.56
+D,Okay So and,400.01,401.62
+A,Okay yeah,402.28,402.81
+D,so this lot is for um,402.96,404.37
+A,Now it's consistent throughout So yeah,404.26,406.55
+C,Yeah,406.15,406.15
+D,On the t speaker,406.91,407.39
+C,So yeah,409.63,410.36
+D,And then this lot is on th,410.33,411.48
+C,we have basically two options of of browsing the meetings is by either,411.47,415.44
+C,um searching and opening,416.92,417.97
+C,individual observations And when then we have the interlinking by right-click basically,419.33,423.66
+A,Right,424.58,424.58
+A,Actually yeah like um another common thing like if we have it so it's set up that um if you double-click and it goes to a default thing on the menu I mean that's kind of a typical kinda action that would happen If you double-click on a particular topic or something then it goes to sort of a like a default,426.11,439.22
+C,Double-click Oh,435.40,440.70
+A,view so it'll be like all the,440.78,441.88
+A,um cases of that topic either whatever we decide the default to be whether it's in all meetings or just in one meeting and just show up the the particular instances of that topic,442.90,451.28
+A,in a meeting Like I'm just thinking to have the default there so if somebody knows exactly what they wanna do and we know that that's the most common thing that's gonna happen so the double-click will do that and so save them the trouble of right-clicking and choosing the item on the menu,452.29,462.40
+C,Hmm Yeah,452.56,459.07
+C,I don't see there's anything obvious that was that would be able you know that would be,462.79,466.65
+A,Well it might come to us as we start playing with it,466.05,469.23
+B,Yeah,469.41,469.41
+D,What was that I didn't quite understand Do you mean,469.52,471.30
+A,Um like we have the the right-click menu You'll have the menu right-click it but instead of like have a default double-click so if there's a de so it'll be a choice from the menu but yeah exactly,471.44,481.23
+B,Uh just let th,471.86,472.47
+D,Yeah,473.68,473.68
+D,Oh so and it figures out what's the most common,478.21,480.71
+B,Yep Yeah,478.66,481.62
+D,use to double-click,481.76,482.31
+A,Yeah,482.53,482.53
+D,Oh Okay,483.42,483.63
+B,Like I don't know show the speaker characterisation,483.70,485.13
+A,Yeah,486.08,486.08
+B,for instance Or I don't know,486.30,487.67
+C,Yeah but then then there's the problem with a lot of windows popping up again And they pop up without you even being quite sure what it is you know what I mean,486.35,493.67
+D,Yeah,486.57,486.57
+A,Hmm Yeah,491.57,494.70
+B,But if you do double-click on something don't you expect something to happen then,496.26,501.72
+A,Yeah,496.88,496.88
+C,Yeah maybe Mm Hmm,502.78,504.18
+B,Sort of well I don't know,503.47,505.12
+D,Sometimes you do it by accident though You oh go away Stop coming up,504.56,507.80
+A,Yeah exactly Well then they close it Yeah know it's not it's not the end of the world,506.86,510.87
+D,Yeah,509.01,509.01
+B,Yeah,509.48,509.48
+D,No,511.26,511.26
+C,Especially if you have a touch-pad It,511.77,513.19
+D,Yeah yeah oh yeah T,513.64,514.84
+C,just goes,514.44,514.66
+A,Yeah,515.60,515.60
+D,throw stuff throwing out the window,517.19,518.33
+C,Well I'll I'll check what it does on on um double-click at the moment,517.63,520.90
+B,Yeah Yeah,521.62,522.56
+A,Okay,521.78,521.78
+C,'Cause I think it might do something But,521.98,523.54
+B,uh that was good start,523.60,525.08
+C,but yeah,524.86,525.11
+C,mm but I don't I don't I d really don't see anything obvious that that would,526.55,530.33
+D,Yep,526.91,526.91
+C,I mean if you can think of something that,532.32,533.47
+B,I don't know,537.17,537.46
+C,Sorry,538.68,538.68
+B,I guess it depends on,542.34,543.21
+B,the,544.27,544.27
+B,Yeah what you're clicking on Obviously,546.29,548.23
+C,Sorry Um yeah another thing,548.61,550.71
+A,Hmm,549.83,549.83
+C,Single audio files,553.68,554.40
+C,Do we wanna use them or not,555.55,556.39
+D,We don't know yet do we I don't think Do you mean the single channel,558.63,561.18
+C,Yeah single channel that's single channel files Do we want them I mean,561.75,564.88
+B,Single channel,561.93,562.18
+A,Mm,562.59,562.59
+D,Probably not but we might need them for disfluencies,565.81,567.42
+B,No,567.01,567.01
+D,if we try do it in audio But at the moment no But,569.14,572.56
+C,Yeah okay yeah yeah I we might use them while wo to work with them but do we wanna integrate them in so that when you browse you can here's,569.35,578.00
+A,yeah,570.79,570.79
+D,yeah,574.52,574.52
+D,We might want to be able to say oh just give me what that person's saying,577.91,580.58
+C,Do you though I mean it's not gonna make much sense if you don't listen to it on its own d do you Does it,581.38,585.44
+B,No,581.94,581.94
+D,Unless um you can't hear it properly or something Somebody's talking over somebody else or something Well p,585.06,589.70
+D,W we just say no for now and put it in later or something Yeah yeah,590.95,593.81
+C,No hmm Yeah Yeah,592.90,595.97
+D,Yeah 'cause otherwise it will the it will increase the amount of data we need by a lot won't it Therefore print will be bigger,596.80,603.17
+C,Yeah,601.54,601.54
+A,Mm-hmm,604.34,604.34
+C,Um,606.79,606.79
+C,Yeah wh what do people think in general about the windows cluttering that he's mentioned Do you think do you think it's really that bad,610.05,616.04
+A,I think we probably need that though to have the f the full flexibility we need to have that there but um yeah,615.39,620.39
+C,That's what I feel as well I mean I'm I'm very much I w I wanna have everything,619.07,622.81
+C,customisable,624.01,624.01
+A,Mm-hmm,625.10,625.10
+C,Um,625.66,625.66
+A,Although the thing is typically though is someone gonna have five windows open at the same time probably not Probably just two or two or three of whatever whatever they're looking at like dialogue acts to whatever characterisations,626.35,635.81
+C,Probably not no Yeah Two or three maybe but yeah But yeah it depends I mean I I really wanna put the summary in somewhere you know And the summary for example is typical You open the window you read through it you might click on you know close it again straight-away,631.00,645.29
+A,Hmm,639.89,639.89
+D,Yeah No I think it's I think it's fine Yeah I think what we're doing is fine,646.21,649.40
+C,But it'd be good to there,646.53,647.47
+A,Yeah true,646.58,647.11
+B,Yeah,646.99,646.99
+B,But uh well couldn't we I mean you probably I don't know if you wanna have like the the full transcription and the summary at the same time,648.34,655.75
+B,So maybe you can just like choose the s same window for transcription and summary,657.56,662.88
+A,Hmm,661.99,661.99
+A,So like have a tab there For something like that choose on choose one,663.63,666.29
+C,I was just thinking of tab,665.01,665.79
+B,Yeah Yeah Tabs are nice,665.32,668.30
+D,Yeah tabs are good Mozilla style Yeah,669.14,671.05
+B,I like tabs,669.42,669.68
+A,Yeah,669.47,669.47
+C,That true Yea yeah yeah yeah That's right I'm not sure yeah,670.15,674.51
+B,Yeah,670.89,670.89
+B,I don't know how easy it is But I dunno but,674.88,677.81
+D,Does anybody know how to do that Or can you do that in Java I don't think Java knows how to do that really Maybe yeah you probably can But but,675.17,681.21
+C,No,676.27,676.27
+C,I don't know Do you reckon,677.74,679.01
+A,Oh you be able to,677.98,678.85
+C,I'm sure,680.28,680.41
+B,Yeah,680.74,680.74
+A,Yeah,681.34,681.34
+C,I'm sure you could do anything,681.45,681.97
+D,If you really knew what you're doing But I don't know It's,682.94,684.60
+B,Yeah,682.95,682.95
+A,Yeah,682.97,682.97
+D,a bit of a cripple with Java's windowing tool-kit The eight is sometimes,685.80,688.59
+D,it's a bit of a cripple,689.69,690.15
+C,Hmm,689.73,689.73
+B,Yeah,690.97,690.97
+C,I can have a look,691.93,692.43
+D,Yeah,694.14,694.14
+B,Yeah Or just I don't know,694.84,696.18
+C,But yeah that that might be an idea yeah,696.94,698.42
+B,Yeah uh change the,697.23,698.47
+B,contents of the same window like from transcription to summary,700.13,702.95
+D,Yeah yeah Yeah,701.78,704.35
+B,Probably yeah Hmm,704.53,706.29
+A,Yeah or even just have buttons on it toggle buttons or something on the tool-bar for that window,707.76,712.24
+C,Hmm,713.14,713.14
+A,Just something,714.44,714.56
+B,Yeah yeah That could probably,715.98,716.92
+A,A lot of different ways we can do it it doesn't doesn't have to be a tab or whatever Just gonna be yeah Yeah,716.04,720.58
+B,No no it could be like transcription summary like two buttons and you just press on which ever you want,719.03,725.44
+A,Yeah Exactly,721.89,722.15
+D,Yeah,723.91,723.91
+A,Or check-marks Even have two of and send,725.07,727.21
+D,Yeah that will reduce the number of um windows we needed wouldn't it Which is quite good 'Cause otherwise Photoshop has a lot of windows if you ever use Photoshop it's got loads and you're always g forever going no get out of the way There's always stuff in the way isn't there So,726.15,738.15
+B,Yeah,727.19,727.19
+A,Yeah Yeah Yeah exactly Yeah,728.66,737.85
+B,Yeah I don't like pop-ups,739.06,740.33
+C,But I mean people get used to it I mean when you use a Windows,740.42,743.12
+D,Yeah,741.39,741.39
+C,or Linux for that matter you have a lot of windows open And you manage them,744.29,748.44
+D,You do yeah,747.77,748.11
+A,Mm-hmm,747.85,747.85
+D,Yeah,749.38,749.38
+A,Yeah True,749.45,751.80
+D,Yeah,752.05,752.05
+D,Unless can you I don't suppose you can minimise them and stuff like that Can you can you do that,753.52,757.59
+B,I that yeah,753.87,754.59
+C,Yeah you can minimise 'em Yeah yeah,756.37,758.01
+A,Oh yeah Okay,757.87,758.40
+D,Okay well it's alright then Yeah Of course you can actually yeah it's got everything,758.88,762.50
+A,Yeah Yeah like a lot of these can be like once we get the disfluencies out then we can you know have transcript without the disfluency transcript with the disfluent disfluency Have all these you know have these sort of using the same window and so we can a lot of and probably mutually um whate,761.36,777.03
+B,Yeah,762.35,762.35
+C,Yeah that's true they're they're definitely,769.72,771.10
+C,Yeah they're definitely gonna be in the same window yeah,773.12,774.77
+B,He's close,777.78,777.91
+A,distinct yeah Exclusive yeah,778.10,779.17
+C,Exclusive,778.22,778.22
+C,Yeah that that was the plan for the disfluencies anyway So d,779.61,782.56
+A,Yeah,781.91,781.91
+C,Yeah do you wanna do that with summaries in,784.05,785.56
+C,Put the summaries in in the same window,786.74,788.79
+C,Mutually exclusive with,790.24,791.20
+B,Yeah um well,790.78,791.57
+B,could uh I don't know Would transcripts,792.73,794.10
+B,uh b sounds reasonable to have like transcripts like maybe three alternatives then Like full meeting meeting without disfluencies and summarise,795.29,803.26
+A,Hmm Right,795.73,800.36
+C,Summary Yeah you wanna do that,803.21,805.04
+A,Yeah that kinda makes sense,804.47,805.57
+B,Yeah,805.91,805.91
+C,Yeah,806.36,806.36
+D,Yeah sounds good,806.87,807.38
+B,Um yeah,810.37,811.09
+C,And finally the prototype he spoke about What kind of prototype could we produce,816.58,821.81
+A,By the end of February,823.08,823.47
+C,Because I'm I'm just you know I go into the lab and I say right what am I gonna change today You know And it kind of just it just develops I'm not aiming for anything,824.27,833.93
+A,Okay right,829.31,829.57
+C,Do we wanna aim for something,835.21,835.99
+D,Um,837.78,837.78
+C,I'm I'm pretty much getting there anyway to be honest It's not it's not gonna be a lot more work,841.51,846.33
+A,Yeah,844.91,844.91
+B,I guess it is I mean just to try it and I mean for us to to be able to do something that we can include with your thing so so eas yeah Yeah,846.63,856.03
+A,Yeah Mm-hmm Yeah,854.58,855.85
+D,Yeah that's what we need yeah Something just slightly more than just that on its own,854.70,858.63
+C,Oh Hmm,856.50,858.47
+A,Yeah so we can plug it in and,858.54,859.67
+B,Yeah,858.82,858.82
+D,Yep,859.83,859.83
+B,Yeah Just so see the integration works sort of between the different compo,860.08,864.43
+C,Mm true,865.12,865.32
+D,Yep definitely,865.36,865.91
+B,Um,866.84,866.84
+A,Hmm,868.45,868.45
+B,So I guess that's what we need to aim for,868.88,870.69
+D,I think that's kinda as well isn't it really Seeing it seeing it sort of start to do stuff rather than just be,870.94,875.94
+B,Yeah,872.78,872.78
+C,Oh right I see Hmm,876.35,877.24
+A,Mm-hmm,877.67,877.67
+D,a prototype with a GUI,878.02,878.82
+B,Yeah Well if I guess I mean that was probably our intention but we might not have written it down So I guess,879.32,887.28
+D,Yeah yeah Yeah,886.42,887.21
+A,Hmm,887.36,887.36
+B,I know Yeah,888.40,890.84
+A,Actually is the code accessible like the the GUI stuff that you've done yeah Like can we just like copy like the latest stuff out of your directory somewhere Or Like if we're gonna just try and like take a look or something,891.97,902.76
+C,Um probably not,900.41,901.91
+C,I don't know can you access other people's,903.34,904.66
+A,try and just plug some stuff I think you can if,903.80,905.80
+D,You can make it if you make it world readable then anybody can access it,905.04,907.72
+A,Well if you just tell us the directory and just make the file readable then we c know the directory to get in then and just,907.32,912.41
+D,Yeah,910.51,910.51
+C,Yeah sure,912.45,913.27
+A,That might be might be an idea,913.62,914.74
+C,I don't know if it's readable at the moment but you can sure have a d have a look,914.52,917.05
+A,Yeah think by default they are I think really Or,916.51,919.85
+D,No uh i i it no they're not world-readable It not the default they're only default then only you can read them by default You can see them but you can't read them,916.83,925.28
+B,Yeah Alright,918.33,920.16
+C,Alright,923.63,923.63
+A,Okay,923.82,923.82
+C,'Kay Right well I'll make that readable then,925.57,927.46
+A,Okay alright Okay,925.65,927.86
+D,Yeah,927.99,927.99
+C,Um so the directory is my number,928.84,931.95
+A,Or you could just email to us Okay yeah yeah okay right Yeah right okay,932.61,936.00
+C,Well this is not difficult,934.69,935.26
+D,What's your number,936.42,936.75
+A,Okay,937.35,937.35
+C,It's in all the emails,937.81,938.51
+A,Yeah,939.19,939.19
+C,Not O_,939.53,939.72
+D,Okay your number,940.00,940.69
+A,Yes,940.50,940.50
+C,four O_,942.88,943.25
+D,Okay,943.95,943.95
+C,four five five five six O_,944.57,948.83
+B,Say that again O_ four,949.81,950.51
+C,O_ four five five five six O_,950.76,952.47
+D,And then it's,952.96,953.31
+C,And then um there's a folder um N_L_S_S_D_,954.93,957.43
+D,N_L_S_S_D_,958.83,958.83
+C,and it's called the M_ browser,959.54,961.35
+D,The M_ browser for meeting,962.53,964.16
+C,Yes M_ for meeting,963.72,964.93
+A,Lower case,964.04,964.24
+D,Hope you hope you never have to look in my directory It's just pure chaos S,966.06,969.96
+A,Yeah,967.58,967.58
+C,Really,970.01,970.01
+C,No I'm I'm extremely organised you see I've got folders for everything I love folders,971.37,975.44
+B,Oh yeah,975.61,975.80
+D,Mine is serious chaos Files everywhere,976.15,980.44
+B,Mm,981.48,981.48
+A,Hmm,984.87,984.87
+B,Okay,986.33,986.33
+C,Yep so that's me done Someone else wanna talk about their stuff,986.53,989.08
+D,Don't all jump at once,991.94,992.57
+B,I could tell you what I done in S_P_ two,994.49,995.96
+D,Yeah,996.87,996.87
+A,Right,997.53,997.53
+B,Oh um I don't know I basi I s started like browsing a bit just like,999.98,1004.74
+B,trying to see if there's anything out there to use s sort of um just,1005.91,1011.22
+C,Mm-hmm,1009.94,1009.94
+C,W what where you doing again,1011.41,1012.36
+A,Um all the searching stuff the the in inverted file stuff and um the next search query and all that Hmm,1012.90,1019.40
+B,yeah searching yeah well yeah We're doing the Yeah yeah So it just,1013.08,1018.16
+C,The search okay,1015.18,1015.69
+D,Yeah what was on it,1015.80,1016.39
+C,Okay,1018.98,1018.98
+B,found a tutorial but i inverted search in indexing but I haven't read it yet But,1019.43,1024.59
+A,Yeah,1022.55,1022.55
+A,So you could just use that code like that was behind the question she asked him earlier Just You know the re-using code and stuff was just like okay,1023.57,1030.30
+C,Indexing,1024.28,1024.28
+B,Yeah,1027.14,1027.14
+C,Oh,1028.17,1028.17
+B,Yeah,1028.68,1028.68
+C,Oh right Oh that's pretty much there is it,1030.11,1032.12
+B,Yeah,1030.96,1030.96
+D,Oh you found some code for it For the inde,1031.00,1033.16
+B,Yeah well I don't know if it's usable I uh can have a look th at it But but I found some code for like from a tutorial about i indexing Uh whatever Yeah,1032.81,1041.33
+A,Um apparently Yeah Yeah,1032.87,1036.24
+D,Alright,1035.83,1035.83
+A,Yeah,1037.67,1037.67
+C,Of making,1037.96,1038.13
+D,Alright,1039.77,1039.77
+C,Oh,1040.71,1040.71
+D,Cool cool So even if it doesn't work you can jiggery pokery around and make it work Y yeah,1040.87,1044.75
+A,Yeah,1041.03,1041.03
+A,Yeah probably We'll probably still have to do some other file manage while I don't know creation Messing around still though Yeah,1044.22,1050.03
+B,Yeah yeah,1044.58,1045.09
+D,Yeah yeah All sorts of nonsense But yeah By the basics is uh oh okay that's good,1048.33,1051.98
+B,Yeah Yeah,1050.61,1052.00
+A,Yeah,1052.11,1052.11
+C,Yeah that's handy,1053.14,1053.52
+A,Yeah,1054.09,1054.09
+B,Um,1054.67,1054.67
+A,Um,1055.13,1055.13
+B,yeah I guess that's it,1055.75,1056.67
+C,So you think it shouldn't be too difficult,1056.47,1057.45
+B,I don't know Uh I'm I was a bit worried about when well when he talked about this with the mm file,1060.17,1066.15
+B,messing around with files I mean uh how much,1067.64,1069.80
+B,do we actually need to do Like extracting things from the X_M_L_ files and stuff to be able to do the indexing,1071.06,1077.02
+A,Hmm,1076.05,1076.05
+C,Oh I see Yeah You have to convert it to some sort of format I suppose,1077.96,1082.17
+D,Yeah,1079.62,1079.62
+A,Yeah,1082.64,1082.64
+D,I've been trying to g,1083.43,1084.26
+D,write something to read the X_M_L_,1085.27,1086.48
+D,and get rid of it And I can get rid of it but I'm having trouble putting it anywhere else,1087.55,1091.29
+D,So it will come up on the screen,1092.30,1093.85
+A,Huh Okay Right,1092.52,1095.50
+B,Okay,1095.61,1095.61
+D,For the moment I haven't managed to put it into a vector or whatever in Java to play with it But I guess it's not very difficult Yeah in Java yeah,1096.19,1103.48
+B,Okay,1099.62,1099.62
+A,Okay,1101.18,1101.18
+B,are you writing in Java or okay,1101.45,1103.45
+A,Right,1103.91,1103.91
+D,Yeah,1104.75,1104.75
+B,Yeah,1104.83,1104.83
+B,you know bunch about file,1106.43,1107.52
+C,I mean you should look at look have a look at the the browser code then because um you know they already extract for example transcripts,1106.73,1113.45
+D,Yeah yeah I'm sure they do,1114.40,1115.55
+C,it into a window at least,1115.29,1116.01
+D,Yeah,1116.62,1116.62
+A,Yeah it's good idea,1118.40,1118.75
+D,Yeah Oh yeah I will,1119.40,1122.44
+D,I'm sure it's nothing difficult I'm sure I'm making a meal of it at the moment actually,1124.06,1127.46
+B,Um,1133.94,1133.94
+B,yeah I guess I mean,1135.58,1136.33
+B,it was a good point you had that like collaborating,1137.57,1140.05
+B,with the file,1141.73,1142.04
+A,Yeah,1142.23,1142.23
+B,things I mean if you already started on on doing your stuff I guess we can,1143.12,1147.79
+D,Yeah yeah Absolutely yeah,1145.72,1147.25
+D,Should share as much as possible,1148.90,1149.77
+B,Yeah,1150.22,1150.22
+A,Mm-hmm libraries,1150.78,1151.34
+D,Yeah,1152.75,1152.75
+B,Yeah,1153.38,1153.38
+A,Hmm,1153.54,1153.54
+B,Should we I don't know,1155.19,1156.13
+B,meet up and see what we could do I mean I don't know see what you've done and see what we need,1158.29,1163.79
+D,Yep,1164.63,1164.63
+A,Right,1164.72,1164.72
+B,when we know more of what we need maybe,1164.83,1166.42
+D,Next week sometime yeah I,1167.29,1168.52
+A,Yeah Yeah Yeah exactly exactly So you're still working I see,1167.35,1171.77
+B,Or what do we need Yeah,1167.47,1168.42
+B,Yeah,1169.62,1169.62
+D,actually haven't done anything this week 'cause this week's been manic But,1170.87,1173.55
+A,Yes exactly same Yeah I mean betwe,1173.63,1175.78
+B,Yep Yeah,1173.93,1174.63
+C,What do you mean This week's only two days old,1175.26,1176.91
+A,um,1177.07,1177.07
+D,well whatever it was last week then,1177.47,1179.12
+A,sup,1178.13,1178.13
+B,Well,1178.64,1178.64
+C,Oh,1178.93,1178.93
+A,yeah,1179.28,1179.28
+D,The the the week as it as is rather than the proper week do you know what I mean Do you know that it's been all a bit manic the last m the last yeah,1180.27,1186.40
+A,Yeah Right,1180.31,1184.15
+A,well you're in S_P_N_L_P_ and S_P_ two right So yeah Yeah that's where at,1186.44,1189.74
+D,Yeah that's right yeah And then we had to do an I_R_P_,1188.21,1190.72
+B,Yep,1188.62,1188.62
+D,whatever it was last week as well Which is only a page long but it's quite difficult to write a page,1192.26,1195.62
+A,Hmm Yeah Yeah oh yeah,1193.94,1197.55
+C,Yeah Oh that's complete rubbish anyway mind,1196.90,1199.64
+D,More diffi,1197.96,1198.21
+D,it was it wasn't marked but it was I had to sit there and think about it for a bit which is a bit irritating Yeah but S_P_N_L_P_,1199.26,1204.64
+C,Just so stupid,1200.83,1201.38
+A,Yeah that's fun,1205.86,1206.49
+D,Yeah,1207.74,1207.74
+A,Oh yeah,1209.32,1209.44
+B,Oh,1209.97,1209.97
+A,Okay,1211.16,1211.16
+B,Um,1211.82,1211.82
+A,So Yeah I was thinking that we can probably get uh start attacking this seriously and then just um,1212.25,1217.49
+B,Yeah we're gonna meet up,1214.16,1215.15
+D,Yep,1216.04,1216.04
+A,yeah hopefully have something by next week that we can sorta try integrating into the GUI,1218.56,1222.40
+C,Mm-hmm,1223.09,1223.09
+A,Okay,1223.58,1223.58
+B,Yeah,1223.91,1223.91
+A,Think that should be,1225.04,1225.46
+C,Well ye the browser as I use it now or as uh you know it was there when I took it,1225.10,1231.50
+B,'Cause it's now,1225.21,1225.61
+C,um uses the um the N_X_T_ search to get the data out of the out the files,1232.61,1238.77
+A,Okay Why,1236.97,1237.91
+C,which I think is odd but I'm not quite sure how it works yet I don't quite understand it,1240.17,1243.65
+D,So when it when it,1244.84,1246.16
+C,To get the data i for example to get the summarisation data you have to search for I think the I_D_s or something,1247.37,1253.70
+C,Yeah,1255.44,1255.44
+D,That's pretty bizarre isn't it Well I guess that's how it works They've got d,1256.45,1259.38
+C,Yeah,1257.54,1257.54
+D,That is pretty bizarre,1261.62,1262.06
+C,So they don't you know they don't say look in that and that folder but they say search everything,1263.72,1268.24
+D,Yeah yeah That is pretty bizarre,1267.18,1271.01
+A,Hmm,1272.77,1272.77
+A,Well they did say it wasn't the most efficient,1273.78,1274.94
+B,Okay,1274.48,1274.48
+C,Oh it does load up quite quickly So you know it's not too bad But you know you could have a look at them,1277.55,1282.87
+A,Very clearly yeah Yeah,1277.95,1280.03
+B,Okay,1280.41,1280.41
+B,But it what what is it like a window where you have to wr write the search query Or is it just what's behind it So or how does work then D Okay,1281.71,1291.15
+C,No this is not the actual search This is just when you open what you know to load the transcript for example,1289.16,1294.52
+B,Yeah,1295.18,1295.18
+C,to find the transcript for a certain meeting it does does an N_X_T_ search for the string,1295.71,1301.60
+C,I don't know transcript or text or whatever,1302.94,1306.26
+D,Wh,1305.67,1305.67
+B,Okay,1306.05,1306.05
+D,Four and it w it li it just has an open variable transparent s list whatever find everything that's got that and then load,1306.98,1313.45
+C,Yeah,1310.69,1310.69
+C,Yeah so I don't know if you've looked at the search query s language but it's like a dollar A_ text say,1313.25,1320.46
+D,Yeah,1319.51,1319.51
+B,Yeah,1319.66,1319.66
+A,Yeah,1319.85,1319.85
+D,Yeah yeah 'cause that's the uh the declares a variable doesn't it and then they keep Okay,1320.84,1325.11
+C,Yeah And then yeah Because,1323.90,1326.35
+C,every every of all of these um,1327.37,1329.54
+C,these files have got um tha an I_D_ And all the transcript files have got the string I don't know what it is words or text or something in it so it just searches for those files,1331.46,1341.21
+B,Okay,1342.37,1342.37
+D,Right,1342.98,1342.98
+C,Vaguely,1343.23,1343.23
+B,When you like you is there a open thingy or,1345.60,1348.97
+C,So Open,1345.68,1350.04
+B,Like well what did you two do to like how did you figure out that this uses,1350.70,1354.67
+B,N_X_T_ search like,1355.79,1356.68
+C,Um,1357.49,1357.49
+B,is it,1357.77,1357.94
+C,um well it's in the code Just that it you know it yeah you define a search object and then you search on that string I had to figure out how to how to do the same thing for the summary That's how I,1358.91,1370.18
+B,Okay Okay,1361.22,1364.93
+C,I had to I had to understand how to do the transcript how they did the transcript to do the summary myself,1371.99,1376.19
+D,Oh see obvious,1372.10,1372.78
+D,So did you have to write it in the way that they wrote it is that what you did,1376.64,1379.03
+C,Yeah just search for a specific,1379.32,1381.17
+C,string,1382.55,1382.55
+D,Right Okeydoke,1383.46,1385.36
+C,So you could just you know you could use that when you if you wanna um take the data out and put it somewhere Yeah,1385.39,1392.09
+D,Fish the data I was just thinking that yeah,1391.33,1392.78
+B,Yeah,1393.11,1393.11
+C,If you have a a question about w what the p the code means or where to find the code that you wanna you know whatever you wanna do then just send me an email,1396.68,1405.25
+B,Mm-hmm,1397.00,1397.00
+D,Mm,1405.73,1405.73
+C,I can explain it,1406.84,1407.58
+B,Yeah,1408.29,1408.29
+D,Have you annotated your code nicely,1408.85,1410.00
+C,Oh yeah,1410.71,1410.86
+D,Not yet,1411.14,1411.33
+A,Okay,1411.67,1411.67
+C,Actually in the moment it's got a load of rubbish because the the um the browser that I used from this from you know that they gave us had a lot of extra stuff in and I haven't dared throwing out to through out all the functions I haven't you know that I don't need Yeah just in case Exactly,1412.21,1426.48
+D,Just in case,1424.82,1425.13
+A,Hmm right right,1425.05,1425.67
+D,mission critical,1426.47,1426.76
+C,Yes,1427.69,1427.69
+C,So they're all in there ye still,1428.91,1430.58
+D,Yeah,1429.36,1429.36
+C,A lot of rubbish but,1431.71,1432.36
+C,they will be get will be chucked out right at the end I think,1433.39,1435.75
+D,Commen commenting it out one bit at a time and running it does it work yeah Okay get rid of that next,1436.89,1441.30
+C,Yes Exactly yes Yeah,1439.28,1441.43
+A,Yeah M yeah Yeah,1439.78,1441.15
+C,Precisely,1442.48,1442.48
+B,Oh yeah,1444.48,1444.59
+D,Good fun aye,1446.30,1446.90
+B,Yeah Oh no,1446.67,1448.73
+A,Hmm,1448.83,1448.83
+B,Yeah,1452.00,1452.00
+D,So basically we go and go and do some work really I think that's the um the um the answer to that isn't it The long and the short of it,1452.09,1457.88
+A,Yeah seriously on the weekend,1454.16,1455.33
+C,The,1455.45,1455.45
+C,weekend The weekend's still four days off,1458.20,1459.96
+A,Yeah Well f Uh Um Yeah,1458.22,1460.42
+D,Yeah Proba I'm,1461.23,1462.34
+A,Yeah How,1462.01,1463.04
+D,still at the bottom of the mountain,1463.41,1464.13
+C,Oh,1465.05,1465.05
+A,many hours is this,1466.13,1466.89
+C,I don't actually have that much to do at the moment,1467.51,1469.16
+D,Yeah,1467.61,1467.61
+A,Hmm,1468.26,1468.26
+D,Well should you find you want to explore any other,1469.91,1472.02
+C,Well,1471.25,1471.25
+B,Yeah,1472.51,1472.51
+C,Oh,1473.04,1473.04
+A,Yeah seriously,1473.74,1474.13
+C,dear,1474.23,1474.23
+D,perhaps you as your um,1475.46,1476.76
+C,Well,1475.73,1475.73
+D,uh quantify raising,1477.94,1478.93
+A,Hmm Yeah Yeah That's what I gotta work on,1480.13,1482.77
+C,I can't remember what I'm supposed to do by the way Am I supposed to do the summarisation thingibob,1483.08,1487.12
+A,Mm,1488.73,1488.73
+B,Mm I don't know,1493.19,1494.25
+C,No,1494.01,1494.01
+A,Who was doing that,1495.54,1496.01
+C,You do,1499.32,1499.43
+A,Oh really,1499.74,1499.85
+B,Oh,1500.60,1500.60
+D,You saw it yeah,1500.71,1501.39
+A,Damn,1500.91,1500.91
+C,Well I'll do that then,1502.11,1502.70
+A,Yeah yeah These can be changed as well Okay yeah,1502.13,1504.34
+B,Oh,1503.49,1503.49
+C,Shall I do that then I mean,1504.40,1505.49
+A,Um I don't know it doesn't matter If if you want to I mean it's just you know play around with some extra stuff You have some time,1505.46,1510.89
+C,Or you know,1507.01,1507.51
+A,why not,1511.90,1512.01
+C,It shouldn't be to difficult I mean,1512.37,1513.29
+B,Yeah,1516.15,1516.15
+D,So what courses should I pick to be not doing any work at the moment,1516.90,1519.50
+B,Yeah,1519.14,1519.14
+C,Well I'm doing communications,1521.13,1521.57
+B,That's nice,1523.24,1523.53
+C,which we had one exercise and I've done that like two weeks ago,1523.34,1526.85
+A,Hmm,1527.69,1527.69
+C,And that's in in two weeks,1528.02,1529.31
+A,Was that in informatics,1530.25,1530.89
+A,course Or Oh Oh it like digital,1532.08,1535.10
+C,Yeah it's a,1532.88,1533.55
+D,Yeah,1533.19,1533.19
+C,nine nine course as well or ten or something Yeah,1534.82,1537.40
+A,okay Okay,1536.30,1537.39
+D,Oh so it's uh yeah,1537.84,1538.61
+C,And then then I'm doing,1539.01,1540.27
+A,Yeah,1539.77,1539.77
+C,parallel programming languages and systems,1541.62,1543.43
+A,Hmm,1544.23,1544.23
+C,which we had one exercise as well and that's in like Friday,1544.94,1547.37
+C,Well I'm not doing any background reading so you know,1551.52,1553.41
+A,Alright Yeah,1553.64,1556.33
+C,Being lazy,1557.05,1557.27
+B,Sorry I'm just being yeah,1557.23,1559.14
+A,Fine Hmm,1558.28,1559.54
+B,Hmm,1560.44,1560.44
+A,Yeah I'll be happy when this week is over,1561.64,1563.39
+D,Yeah me too,1564.33,1564.74
+C,Oh,1564.67,1564.67
+B,Have we these courses that we're okay Yeah,1565.13,1567.71
+A,Yeah,1567.12,1567.12
+A,Well I don't know is that about it then or,1570.02,1571.45
+B,No,1571.85,1571.85
+A,anything else we need to discuss,1572.58,1574.11
+B,I don,1574.37,1574.40
+A,Did we wanna meet before we,1576.52,1577.97
+A,talk to Steve next week,1579.21,1580.31
+A,Well I dunno We'll probably get some work done over the weekend so I dunno if after D_N_L_G_ or something maybe just have a little quick little update and just,1582.98,1590.77
+B,Yeah,1586.73,1586.73
+C,Yeah if you like,1592.33,1592.76
+B,Yeah I don't,1593.44,1593.90
+A,Yeah Well we can Yeah exactly True Yeah,1593.85,1596.11
+C,We can always decide then I mean yeah,1594.03,1595.45
+B,Yeah,1595.68,1595.68
+C,Yeah Um so what what are you planning to do over the weekend then,1596.64,1599.73
+A,Search And,1600.37,1601.77
+C,You're gonna do the search You're gonna implement the search Everything,1602.05,1605.22
+A,well sure why,1603.19,1604.84
+B,Yeah,1604.95,1604.95
+A,Couldn't be that hard,1606.05,1606.46
+B,Yeah,1607.62,1607.62
+A,Well it'll be you know still limited,1607.82,1609.65
+A,version of you know the next query search But no no,1611.13,1614.17
+A,Won't be the whole thing then Um like we can just decide sort of things that we do wanna do Hmm yeah Well actually most are just dialogue acts And what else was there,1615.24,1623.77
+B,No,1616.41,1616.41
+C,Mm-hmm,1620.66,1620.66
+A,summary topic,1631.08,1632.52
+B,Mm,1633.31,1633.31
+A,Yeah,1638.28,1638.28
+C,It's just that I think we need to set ourselves some milestones,1638.91,1640.78
+B,I know,1639.14,1639.35
+C,because otherwise,1641.94,1642.27
+A,Yeah,1642.00,1642.00
+C,You know,1644.85,1645.01
+A,Yeah it'll get behind schedule yeah pretty quick,1647.31,1649.77
+C,Weeks will go by and,1647.82,1648.76
+A,Like you're saying yeah Well actually do we wanna set a date for,1651.15,1653.67
+A,interim prototype Specifically a date,1654.90,1657.87
+B,Mine was,1660.80,1661.06
+C,Well you decide I'm not doing much for that prototype So,1661.46,1664.11
+D,Um,1664.65,1664.65
+B,The progress report is due on twenty,1667.78,1669.97
+B,third February,1671.04,1672.43
+C,Of,1672.95,1672.95
+B,February,1673.81,1673.81
+C,Oh,1674.71,1674.71
+D,So so what's that two weeks basically,1675.35,1677.12
+B,Um yeah,1677.30,1678.35
+C,Well how about we get it done by then I mean,1678.93,1681.56
+D,Ish yeah,1682.79,1683.10
+C,Then we can write about it in the in the interim report and s you know and then we've got something to show,1684.44,1689.39
+B,Yeah,1687.80,1687.80
+D,Yeah Okay,1687.94,1689.04
+B,Yeah,1697.01,1697.01
+B,Just looking at my own deadlines,1699.20,1700.23
+B,See Yeah that would be,1702.66,1703.97
+C,Um oh and the the search interface,1705.37,1707.40
+B,fine,1705.51,1705.51
+C,Maybe you should decide pretty,1710.85,1712.69
+C,pretty early what kind of things you wanna be able to search for,1713.75,1716.59
+A,Yeah,1717.20,1717.20
+C,And then if you want you can give that to me and I'll I'll build a u nice you know a few tick-boxes and drop-down menus,1718.14,1723.41
+B,Wasn't like what you had now wasn't that pretty much what we agreed on Or was it just,1724.94,1730.25
+C,No,1728.51,1728.51
+C,Oh that's that's that doesn't exist,1730.31,1732.32
+B,like that one,1731.30,1731.64
+C,Tha that's completely cut and pasted,1733.65,1735.25
+A,Okay,1736.03,1736.03
+B,Okay,1736.16,1736.16
+C,That does not exist,1737.53,1738.19
+C,Nicely done though isn't it,1739.39,1740.15
+B,This,1740.33,1740.33
+D,Yeah that's it's quite impressive actually Yeah,1740.55,1742.56
+A,Is it semblance of reality Yeah,1742.46,1744.01
+C,It's actually all these all these um things are are nicked from um you know all these drop-down menus and tick-boxes are nicked from Google online,1743.31,1749.97
+B,is illusion or whatever,1744.52,1745.68
+A,I see,1752.74,1752.87
+C,A screen-shot of Google,1753.77,1754.51
+B,Oh mm Nice thought I'm impressed,1755.09,1758.34
+D,That's quite slow really,1759.63,1760.36
+C,It's just so much fun,1759.75,1760.40
+B,Maybe you should make it exist then,1759.99,1761.39
+D,Yeah,1762.04,1762.04
+C,It's gonna be a little difficult more difficult Yeah I mean I was going to but you know the whole drop-down menus and stuff what we wanna search for is not quite agreed on We never agreed on what we wanna,1763.58,1774.34
+C,be able to search for,1775.50,1776.24
+D,No it's not is it Yeah,1776.60,1777.39
+A,Right true Mm decide on that on over the weekend,1776.66,1779.23
+C,So,1777.79,1777.79
+C,Yeah do you wanna you know just get together and think about the different types of search we could possibly do and then then we could discuss it next meeting which options we really wanna include,1779.80,1788.89
+A,Yeah,1781.11,1781.11
+B,Yeah,1785.21,1785.21
+A,Right,1791.17,1791.17
+C,That would probably involve researching the query language a bit as well to see what that can do,1791.35,1795.76
+A,Yeah totally,1794.95,1795.30
+B,Yeah,1796.46,1796.46
+B,It would be nice to I don't know meet up and uh you can sort of show us a bit what you know already so we don't sort of have to do all the work again of just like figuring out stuff,1798.71,1809.44
+A,Oh just like the basic So like no,1810.28,1812.14
+C,Know Know already what,1810.62,1812.77
+A,Sorry,1813.61,1813.61
+B,Just like accessing the corpus and stuff,1813.91,1816.08
+C,Oh,1816.28,1816.28
+A,Yeah Just like all the and seeing the code and just sort of how just see the basics of what you've done Like just get a a quick look over and just the basics,1816.85,1823.50
+D,Can take us for a tutorial sometime,1823.06,1824.47
+C,Yeah,1823.51,1823.51
+A,Yeah Or like like you know the class paths all that sort of thing Like just just say okay well here's you know everything's basic in set-up and then just yeah just jump right in,1824.52,1833.16
+B,Yeah,1824.67,1824.67
+C,Yeah Yeah I can do that,1829.70,1831.04
+B,Yeah,1831.52,1831.52
+C,Show you what bits the code,1832.47,1834.06
+A,Yeah Yeah That's cool Yeah,1834.42,1837.49
+D,Next week sometime,1835.94,1836.39
+C,Yeah,1836.03,1836.03
+A,In the morning,1839.76,1839.91
+C,Ah yeah,1841.01,1841.89
+C,Well this time I'm dictating the time 'cause I if I'm not there you can't do anything,1843.90,1848.52
+A,Yeah Yeah,1845.02,1845.76
+A,Yeah I know Well thing is you know if yeah something like that could happen anytime 'cause uh yeah like my schedule's like a class break class break class you know that sort of thing So so yeah I know exactly exactly that's what I'm thinking So like that and then if I have a class I can run off and do whatever,1847.35,1862.42
+C,Yeah ah it's not gonna take an hour to explain it you know,1856.31,1858.59
+B,Yeah yeah yeah,1858.51,1859.01
+C,I mean,1859.87,1859.98
+B,Yeah,1862.60,1862.60
+C,Pick a time,1862.74,1862.96
+A,Yeah Okay,1863.64,1864.48
+C,I I you know let me know whenever,1864.40,1866.66
+B,Um yeah,1865.13,1865.98
+A,Actually Monday Monday might be good d um,1866.12,1867.84
+B,Yeah,1868.15,1868.15
+C,What Monday,1868.66,1868.95
+A,Yeah yeah,1870.25,1870.93
+C,What did you say,1870.30,1870.55
+B,Next yeah this Monday Just,1870.51,1871.92
+A,Anytime um not at n not at noon or two or four,1872.37,1875.99
+D,Mm Monday afternoon,1873.12,1874.21
+A,No in between those is you know like one or three or,1877.67,1880.48
+D,Uh,1880.93,1880.93
+C,Three o'clock,1880.99,1881.21
+A,Sure,1881.96,1881.96
+C,Actually th yeah,1882.31,1882.73
+A,Possibly,1884.28,1884.28
+D,Three is alright It was what time's D_N_L_G_ Four isn't it,1885.36,1887.97
+B,Yeah It's full yeah,1886.90,1888.78
+C,Unless you wanna do it after the um after,1888.86,1890.65
+A,Yeah,1889.11,1889.11
+A,Yeah that's an option too Yeah after,1891.57,1893.34
+C,D_ D_ and A_,1891.89,1893.60
+A,Sure That's fine,1895.31,1896.37
+D,Three's good though I'll but we have s whatever What's you what would you prefer,1895.92,1899.63
+B,Yeah,1896.08,1896.08
+A,Yeah Or three thirty,1899.14,1900.42
+A,No just yeah That'd be necessarily necessarily,1901.97,1904.70
+B,Well it doesn't matter me I mean three three or after what,1903.41,1906.42
+C,That's gonna be tight,1903.75,1904.27
+D,We could three thirty in the in the computer room in here and then we can just go stra,1904.69,1907.90
+A,Actually we can't get in there though,1907.27,1908.50
+D,if you can't can you get in the front door Oh you haven't got a key do you Can none of you get in there,1909.35,1913.58
+B,Maybe we ca,1910.51,1910.82
+A,W we well we can get through the through the card the card door Yeah,1912.60,1917.91
+C,Yeah it what front door,1913.93,1914.88
+D,The k the f there's computer rooms in here the M_S_C_ computer lab and uh is in here Well if you find me I'll show you where I'll I'll let us all in there and we can all go in there,1915.80,1924.94
+B,In four Buccleuch,1916.30,1916.75
+C,I've not that yet,1918.62,1919.33
+A,How about if we take uh a,1920.04,1920.99
+B,We can go,1923.42,1923.75
+A,Yeah right,1923.73,1924.44
+B,we can look at now afterwards,1925.04,1926.10
+A,Yeah yeah exactly,1926.82,1927.35
+D,Yeah yeah You do need to have a key for it Like that's the thing It's got a lock door button,1927.00,1930.55
+B,Yeah,1927.75,1927.75
+A,Okay,1929.75,1929.75
+B,Okay,1929.86,1929.86
+A,Just sort bang on it Actually I was asking Steve about that whether we can get in there Whether he was gonna get us access into the,1930.87,1937.44
+D,Yeah somebody will answer it,1932.21,1933.11
+B,Into what Okay uh,1938.05,1940.01
+A,the computer room,1938.69,1939.05
+D,Yeah it's only got it's crap it's only got about four or five computers in But it would do quite good for our job 'cause it has not very uh p not many people in it very often,1940.37,1947.61
+A,Yeah print Okay,1942.95,1945.11
+B,Yeah,1947.76,1947.76
+A,Right Is there a printer in there too,1947.93,1949.39
+D,Yeah there's fridge there And there's a photo-copier,1949.76,1950.92
+D,with the code on it yeah yeah,1952.36,1953.48
+A,A nice okay That would come in handy yeah,1953.94,1956.54
+D,It's cool yeah,1954.72,1955.23
+C,Ah Well I'm just,1956.78,1958.16
+B,Oh is that photo-copier I heard I heard about,1957.65,1959.57
+A,Hey we could we could photo-copy our um assignment if we wanted to,1957.74,1961.66
+B,Yeah,1960.60,1960.60
+C,I've got it in my computer,1961.76,1963.06
+B,Yeah,1963.02,1963.02
+A,Yeah the comments I'm thinking,1964.06,1965.07
+C,Whatever is in my computer,1964.23,1964.84
+B,Yeah,1964.31,1964.31
+B,So what time do we say,1965.89,1967.41
+C,I just think it's better to do it afterwards Then we have all the time we need Rather than have half an hour and then we'll surely run out,1968.07,1973.97
+A,Um,1968.08,1968.08
+A,Yeah that's true So after D_N_L_G_,1970.63,1971.85
+D,Oh right,1971.01,1971.15
+B,Yeah yeah,1971.37,1972.00
+D,Yeah yeah,1973.16,1973.41
+A,Yeah,1973.20,1973.20
+B,Yeah yeah yeah Okay Hmm,1973.31,1978.63
+A,As long as D_N_L_G_ doesn't go late,1978.79,1980.01
+C,Oh,1981.37,1981.37
+D,Hopefully it's not that man so it won't matter,1981.76,1983.10
+C,Actually it's not even confirmed yet What was She doesn't even know what she's talking about yet I think,1986.23,1991.23
+B,What,1988.65,1988.65
+A,Oh,1989.00,1989.00
+B,It's,1991.31,1991.31
+C,Maybe it doesn't happen at all,1992.78,1993.71
+A,So,1992.86,1992.86
+B,Yeah I don't know It's reading week next It should be it shouldn't any,1994.74,1997.95
+A,Sounds like me,1995.14,1995.53
+C,Is it really,1997.58,1997.81
+A,Are you Next week Or the week,1998.40,2000.09
+B,well it's supposed to be,1999.09,1999.97
+B,next week It's week six next week,2001.22,2002.84
+A,How,2001.31,2001.31
+C,Really,2002.32,2002.32
+A,Oh,2003.83,2003.83
+C,I don't think we have a reading week though The the,2004.09,2005.48
+B,I don't know We have one class at least when we like speech perception we don't have any lectures But I think we're having like all other classes So uh there's not point in having,2005.54,2014.89
+A,Yeah That's cancelled Oh really,2006.94,2010.05
+C,Yeah I don't think there is an official I don't think there was an official one last semester I think it was just a bank holiday wasn't it,2012.80,2018.53
+A,Hmm,2013.00,2013.00
+A,Um something like that I think one couple classes were cancelled,2019.01,2021.52
+B,No I think it w,2020.17,2020.71
+D,Some classes did and some classes didn't,2021.17,2022.83
+A,Yeah Exact,2023.28,2023.92
+B,Yeah which are a bit crap yeah I think the under-graduates had,2023.48,2027.24
+D,It's all a bit bizarre really They didn't really know what was going on,2023.99,2026.63
+A,Yeah I th Yeah,2025.30,2028.12
+B,uh all were off totally,2028.26,2029.49
+A,I think it was up to the professor whether they did it or not Well I don't feel like teaching Yeah okay I think yeah I think D_I_L_ will probably have one to make up for missing classes,2029.62,2039.33
+D,Nah make 'em work,2034.37,2034.91
+B,What,2040.58,2040.58
+A,D_I_L_ will probably,2040.92,2041.72
+B,Yeah th we will probably have it yeah,2042.24,2043.95
+A,have classes yeah,2042.87,2044.10
+B,yeah last week,2045.05,2046.17
+C,Okay,2047.21,2047.21
+A,Yep,2048.07,2048.07
+C,Let's meet Monday,2048.55,2048.91
+B,Yeah,2048.60,2048.60
+D,Done,2050.35,2050.35
+B,Yeah um I guess,2050.48,2053.28
+C,Hmm,2053.70,2053.70
+B,that's it Was there anything else Do anyone know you wanna like take care of this or should I take care of it,2054.36,2060.28
+A,You can have it Yeah,2060.79,2062.02
+D,Oh we trust you,2060.96,2061.63
+B,Yeah I,2062.28,2062.63
+B,don't know if there was something,2063.75,2064.58
+B,Oh I think he basically said,2065.78,2067.02
+B,um,2069.59,2069.59
+B,the same things as in the comments,2070.60,2072.49
+B,if I could read it,2073.98,2074.70
+B,Can you read that,2078.04,2078.51
+A,Huh,2078.18,2078.18
+A,Which one the top one,2079.28,2080.36
+A,Um,2081.46,2081.46
+A,Do you really want multiple windows from a single lap,2084.36,2086.81
+B,Yeah From a single application,2086.54,2089.79
+A,But most will probably want to go with defaults,2089.60,2091.89
+B,Yeah Well uh that was I guess,2094.39,2096.48
+A,Yeah Yeah,2094.68,2095.77
+D,Yeah I think the comments are basically the same as what you said So it's,2096.45,2098.77
+A,You'd be s,2096.92,2097.15
+A,Yeah exactly and just the other comment about whether you wanna do both speaker characterisation and topic segmentation,2098.74,2104.25
+B,Oh No,2098.91,2105.60
+A,Yeah yeah that's about it Nothing terribly exciting,2106.21,2108.29
+B,Oh yeah Yeah,2107.83,2108.62
+A,Okay,2109.84,2109.84
+B,And now we have seven percent of the course already done,2109.97,2113.27
+A,Yeah Alright,2112.13,2114.27
+D,Yeah,2114.65,2114.65
+B,Is quite good,2115.32,2115.56
+A,Okay So,2116.14,2117.04
+C,Right I think we need to tick the okay box right,2116.83,2118.80
+B,So if y,2117.08,2117.75
+B,If you're okay with uh having,2119.14,2120.64
+C,Ooh,2120.07,2120.07
+D,Oof Bu buzzes Yeah,2121.21,2122.74
+C,Exciting,2121.65,2121.65
+B,Oh,2122.92,2122.92
+A,Okay,2125.92,2125.92
+D,Signing off innit Log off,2126.00,2127.28
+B,Who Yeah,2126.26,2127.01
+A,Yeah Okay,2127.38,2129.89
+C,Should we turn these off then or what,2131.48,2132.43
+B,We're done now I uh,2133.91,2136.67
+B,Is she still here Yes you are Yeah,2139.28,2141.59
